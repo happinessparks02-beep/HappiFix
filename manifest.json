@@ -1,23 +1,12 @@
 {
-  "background_color": "#9dde65",
+  "background_color": "#ffffff",
   "description": "HappiFix: verified local experts for home repairs, construction, solar, shifting, cleaning, healthcare, fitness, IT and events. One Call Problem Solve.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "HappiFix",
+  "name": "happifix.vercel",
   "orientation": "any",
   "scope": "/",
-  "short_name": "HappiFix",
+  "short_name": "happifix.vercel",
   "start_url": "/",
-  "theme_color": "#f1ec5d",
-  "icons": [
-    {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+  "theme_color": "#ffffff"
 }
